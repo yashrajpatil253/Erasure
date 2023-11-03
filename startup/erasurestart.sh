@@ -2,8 +2,7 @@
 
 cd /opt/.xcaliber/installer
 bash erasure_installation_verification.sh
-#jaise taise chal raha he
-#ho jayega na aaj build 
+#run ho jayega na bhai abb ghar jana he
 #sleep 10 && cd /opt/.xcaliber/ota/
 #bash ota_main_file.sh &
 
