@@ -2,7 +2,7 @@
 
 cd /opt/.xcaliber/installer
 bash erasure_installation_verification.sh
-
+#jaise taise chal raha he
 #sleep 10 && cd /opt/.xcaliber/ota/
 #bash ota_main_file.sh &
 
