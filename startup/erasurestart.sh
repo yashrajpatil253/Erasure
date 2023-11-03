@@ -11,5 +11,5 @@ bash erasure_installation_verification.sh
 
 #cd /opt/.xcaliber/erasure_midas/erasure_packages/
 #./Erasure &> /opt/.xcaliber/logs/erasure-flask.log &
-#bas bas ho gaya
+#game djsbdjjdjhdhudcd
 
