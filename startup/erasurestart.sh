@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#kasa kay
 cd /opt/.xcaliber/installer
 bash erasure_installation_verification.sh
 #run ho jayega na bhai abb ghar jana he
